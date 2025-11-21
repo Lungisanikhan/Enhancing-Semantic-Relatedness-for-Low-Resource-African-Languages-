@@ -1,0 +1,10 @@
+Language,Comparison,t_statistic,p_value,Significant
+Afrikaans,Baseline vs Fine-tuned,28.28755350450526,6.083596050540881e-95,True
+Afrikaans,Fine-tuned vs M2M-100 Augmented,3.2435519556017645,0.0012866749255513313,True
+Afrikaans,Baseline vs M2M-100 Augmented,28.76220460449767,8.516471138387542e-97,True
+Hausa,Baseline vs Fine-tuned,29.70722251528602,4.3214257780266125e-120,True
+Hausa,Fine-tuned vs M2M-100 Augmented,-1.627843749120767,0.10408123832419065,False
+Hausa,Baseline vs M2M-100 Augmented,28.497430593151073,9.898373405707685e-114,True
+Kinyarwanda,Baseline vs Fine-tuned,21.468939443863672,5.5145151356931465e-56,True
+Kinyarwanda,Fine-tuned vs M2M-100 Augmented,2.5048179628443923,0.012973242410512323,True
+Kinyarwanda,Baseline vs M2M-100 Augmented,22.73592403802069,8.828592899682342e-60,True

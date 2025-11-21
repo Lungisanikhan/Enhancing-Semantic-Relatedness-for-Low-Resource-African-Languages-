@@ -1,0 +1,16 @@
+Language,Model,Spearman,Category
+Afrikaans,mBERT (Zero-shot),0.5411028749092144,Baseline
+Afrikaans,XLM-R (Zero-shot),0.40162350442751676,Baseline
+Afrikaans,AfriBERTa (Fine-tuned),0.11995547149018435,Fine-tuned
+Afrikaans,AfroXLMR (Fine-tuned),0.40848047595993214,Fine-tuned
+Afrikaans,AfroXLMR (M2M-100 Aug),0.6452324624380992,Augmented
+Hausa,mBERT (Zero-shot),0.018477973543880345,Baseline
+Hausa,XLM-R (Zero-shot),0.12466401833634,Baseline
+Hausa,AfriBERTa (Fine-tuned),0.48806109369015854,Fine-tuned
+Hausa,AfroXLMR (Fine-tuned),0.6518307373419054,Fine-tuned
+Hausa,AfroXLMR (M2M-100 Aug),0.6389194371346096,Augmented
+Kinyarwanda,mBERT (Zero-shot),0.025419296168808093,Baseline
+Kinyarwanda,XLM-R (Zero-shot),0.04253500452618439,Baseline
+Kinyarwanda,AfriBERTa (Fine-tuned),0.45190440598977316,Fine-tuned
+Kinyarwanda,AfroXLMR (Fine-tuned),0.5389790067780651,Fine-tuned
+Kinyarwanda,AfroXLMR (M2M-100 Aug),0.6455783058844695,Augmented

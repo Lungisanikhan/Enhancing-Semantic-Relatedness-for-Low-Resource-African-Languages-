@@ -1,0 +1,6 @@
+Model,Afrikaans,Hausa,Kinyarwanda
+AfriBERTa (Fine-tuned),0.12,0.4881,0.4519
+AfroXLMR (Fine-tuned),0.4085,0.6518,0.539
+AfroXLMR (M2M-100 Aug),0.6452,0.6389,0.6456
+XLM-R (Zero-shot),0.4016,0.1247,0.0425
+mBERT (Zero-shot),0.5411,0.0185,0.0254
